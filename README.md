@@ -1,2 +1,3 @@
 # musicsharer
-personal radio station app 
+Work In Progress!
+Not much to see here! (Yet)
